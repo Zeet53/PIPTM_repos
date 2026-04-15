@@ -31,7 +31,7 @@
 [Мой любимый фильм](https://www.imdb.com/title/tt0110912/)
 
 Вот небольшое изображение, символизирующее обучение:  
-![Обучение](https://via.placeholder.com/150 "123")
+![Обучение](https://avatars.mds.yandex.net/i?id=58a3ac0101f6961ed012acb1d2361f6b_l-5221656-images-thumbs&n=13 "123")
 
 Ниже таблица с дополнительной информацией:
 
